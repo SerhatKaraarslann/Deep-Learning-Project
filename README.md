@@ -1,6 +1,7 @@
-# Deep-Learning-Project
+#### Deep-Learning-Project ####
 
-Project Overview
+### Project Overview
+
 This repository contains two comprehensive implementations of Convolutional Neural Networks (CNNs) for image classification using the CIFAR-10 dataset. The project serves as both a practical exercise to refresh deep learning concepts and a comparative study between different CNN architectures. Each implementation includes detailed step-by-step explanations, making it an excellent resource for understanding CNNs in practice.
 
 Please note: The materials and concepts used in this project are based on the Udemy course: "Master Image Classification with CNN on CIFAR-10 dataset: A Deep Learning Project for Beginners using Python" by Dr. Raj Gaurav Mishra.
@@ -105,7 +106,7 @@ Evaluation: Test accuracy and performance visualization
 Analysis: Training/validation curves for loss and accuracy
 
 
-Deep-Learning-Project/
+### 3.Deep-Learning-Project/
 
 ├── Image Classification Using CNN with CIFAR-10 Dataset.ipynb
 
