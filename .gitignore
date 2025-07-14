@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+myenv/*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data files
+*.csv
+*.tsv
+*.dat
+*.h5
+
+# Logs
+*.log
+
+# Model checkpoints
+*.ckpt
+*.pth
+*.pt
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Test results
+htmlcov/
+.coverage
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+
+# Misc
+*.tmp
+*.bak
+
+# Ignore hyperparameter tuning results
+hyperparameter_tuning/
