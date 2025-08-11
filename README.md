@@ -7,6 +7,7 @@ This repository contains two comprehensive implementations of Convolutional Neur
 Please note: The materials and concepts used in this project are based on the Udemy course: "Master Image Classification with CNN on CIFAR-10 dataset: A Deep Learning Project for Beginners using Python" by Dr. Raj Gaurav Mishra.
 
 Table of Contents
+
 1.Introduction to CNNs and Datasets
 
 2.Project Implementations
